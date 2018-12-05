@@ -70,4 +70,4 @@ Feature: User log in
     And am able to search for CVs
     And am able to update my account
     And I am able to add flags to trainee accounts
-    And I am able to see flags added by other trainers
+And I am able to see flags added by other trainers
